@@ -1,8 +1,4 @@
 """
-Code is borrowed from https://github.com/MarcoForte/closed-form-matting on 2018-06-18.
-
-Implementation of Closed-Form Matting.
-
 This module implements natural image matting method described in:
     Levin, Anat, Dani Lischinski, and Yair Weiss. "A closed-form solution to natural image matting."
     IEEE Transactions on Pattern Analysis and Machine Intelligence 30.2 (2008): 228-242.
