@@ -8,7 +8,7 @@ import torchvision.transforms as transforms
 import copy
 
 from closed_form_matting import compute_laplacian
-from image_preprocessing import tensor_to_image, image_to_tensor
+from image import tensor_to_image, image_to_tensor
 
 
 class Normalization(nn.Module):
